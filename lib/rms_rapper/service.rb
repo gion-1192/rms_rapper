@@ -1,0 +1,5 @@
+require 'rms_rapper/service_base'
+require 'rms_rapper/service/item'
+require 'rms_rapper/client'
+require 'active_support'
+require 'active_support/core_ext'
